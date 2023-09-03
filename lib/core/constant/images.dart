@@ -1,0 +1,26 @@
+const String logo = 'assets/images/Logo (2).png';
+const String mainLogo = 'assets/images/Group (6).png';
+const String gifMIT = 'assets/images/MIT.gif';
+const String downSplash = 'assets/images/Objects.png';
+const String upSplash = 'assets/images/Group (5).png';
+const String downONBoarding = 'assets/images/Vector.png';
+const String upONBoarding = 'assets/images/Group 670.png';
+const String firstONBoarding = 'assets/images/Group 1.png';
+const String codeImg = 'assets/images/Group 53509 (1).png';
+const String resetPassImg = 'assets/images/Group 53509.png';
+const String locationIcon = 'assets/images/16-location.png';
+const String locationicon = 'assets/images/location.png';
+
+const String splashLogo = 'assets/images/splash_logo.svg';
+const String secondONBoarding = 'assets/images/onboarding_1.png';
+const String thirdONBoarding = 'assets/images/onboarding_3.png';
+const String infoPNG = 'assets/images/info (3).png';
+const String contactUsPNG = 'assets/images/customer-service.png';
+const String temrConditionPNG = 'assets/images/terms-and-conditions.png';
+const String insurancePNG = 'assets/images/insurance (1).png';
+const String sharePNG = 'assets/images/share (2).png';
+const String langPNG = 'assets/images/world.png';
+const String logoutPNG = 'assets/images/door 1.png';
+const String termsDetailsPNG = 'assets/images/terms_details.png';
+const String privacyDetailsPNG = 'assets/images/privacy_details.png';
+const String languageSelectPNG = 'assets/images/language_select.png';
