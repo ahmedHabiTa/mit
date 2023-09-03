@@ -204,5 +204,10 @@
   "personal_info": "Personal Information",
   "new_password": "New Password",
   "save": "Save",
-  "share_app": "Share App"
+  "share_app": "Share App",
+  "phone_numbers_management": "Management contact numbers :",
+  "phone_numbers_management_social": "Contact us on social media",
+  "send_message": "Send message",
+  "message_title": "Message Title",
+  "message_type": "Message Type"
 }

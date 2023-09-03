@@ -41,7 +41,7 @@ class MoreScreen extends StatelessWidget {
             CustomMoreSvgWidget(
               png: contactUsPNG,
               onTap: () {
-                sl<AppNavigator>().push(screen: const ContactUsScreen());
+                sl<AppNavigator>().push(screen: ContactUsScreen());
               },
               text: tr('contact_us'),
             ),

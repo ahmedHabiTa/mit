@@ -205,5 +205,10 @@
   "personal_info": "البيانات الشخصيه",
   "new_password": "كلمه المرور الجديده",
   "save": "حفظ",
-  "share_app": "شارك التطبيق"
+  "share_app": "شارك التطبيق",
+  "phone_numbers_management": "ارقام التواصل مع الاداره :",
+  "phone_numbers_management_social": "تواصل معنا علي منصات السوشيال ميديا",
+  "send_message": "ارسل رساله",
+  "message_title": "نص الرساله",
+  "message_type": "نوع الرساله"
 }
