@@ -11,6 +11,7 @@ final Color borderColor = Colors.grey.withOpacity(.4);
 const Color textColor = Color(0xff0098BE);
 const Color popMenuColor = Color(0xff8B8B8B);
 const Color avatarColor = Color(0xffC5DEF5);
+const Color lightmainColor = Color(0xffF7F7F7);
 const Color titleColor = Color(0xff626262);
 const Color appBArColor = Color(0xff3F3F3F);
 const Color splashColor = Color(0xffC5DEF5);

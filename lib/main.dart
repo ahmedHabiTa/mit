@@ -5,7 +5,7 @@ import 'package:mit/core/constant/size_config.dart';
 import 'package:mit/core/constant/styles/styles.dart';
 import 'package:mit/core/util/api_basehelper.dart';
 import 'package:mit/core/util/navigator.dart';
-import 'package:mit/features/more/presentation/pages/more_screen.dart';
+import 'package:mit/features/home/presentation/pages/main_screen.dart';
 import 'package:mit/injection_container.dart';
 
 import '/injection_container.dart' as di;
@@ -65,6 +65,6 @@ class _MITProviderAppState extends State<MITProviderApp> {
   Widget build(BuildContext context) {
     ScreenUtil.init(context, designSize: const Size(428, 926));
     SizeConfig().init(context);
-    return const MoreScreen();
+    return const MainScreen();
   }
 }
